@@ -1,5 +1,5 @@
 # tutorial
 
-Hello peepo!
+This is my first tutorial using Linux VM Ware from Thornton's website!
 
-Malofeev here. I am adding this edit because this is just a tutorial. I am a human living on planet earth and I have poor eyesight. 
+I cloned this test repository from github and modified it using gedit(Installed gedit using "sudo snap install gedit"). Then I will git push the modified file back to github.
